@@ -1,0 +1,11 @@
+/*
+ * COSI 116A: Information Visualization
+ * In-class programming: D3 line chart
+ * Author: Dylan Cashman
+ */
+line{
+	stroke:black;
+	stroke-width:2px;
+  fill: none;
+}
+
